@@ -10,8 +10,8 @@
     "branch": "ten"
   },
   {
-    "repository": "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "repository": "faham1997/android_vendor_xiaomi_lavender",
+    "target_path": "vendor/xiaomi/lavender",
     "branch": "ten"
   },
   {
