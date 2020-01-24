@@ -10,15 +10,9 @@
     "branch": "ten"
   },
   {
-    "repository": "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "repository": "faham1997/android_vendor_xiaomi_lavender",
+    "target_path": "vendor/xiaomi/lavender",
     "branch": "ten"
-  },
-  {
-    "repository":  "android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-17.0",
-    "remote": "lineage"
   },
   {
     "repository": "packages_apps_PixelLiveWallpaper",
